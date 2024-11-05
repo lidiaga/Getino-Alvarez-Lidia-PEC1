@@ -1,0 +1,1 @@
+Este repositorio recoge la solución propuesta por Lidia Getino Álvarez a la primera prueba de evaluación contínua (PEC) de la asignatura *Análisis de Datos Ómicos* del Máster de Bioinformática y Bioestadística de la UOC (Curso 2024/2025) 
